@@ -1,6 +1,6 @@
 {
- "asof_iso": "2026-11-03T04:07:58-07:00",
- "asof": "Nov 3, 2026, 4:07 AM MST",
+ "asof_iso": "2026-11-03T04:13:59-07:00",
+ "asof": "Nov 3, 2026, 4:13 AM MST",
  "window_hours": 3,
  "bots": {
   "Quartermaster": {
@@ -61,7 +61,7 @@
    {
     "label": "Only public files in the repo",
     "state": "bad",
-    "detail": "Unexpected: mascots/1-watchman-idle.webp, mascots/1-watchman-working.webp, mascots/2-instructor-idle.webp, mascots/2-instructor-working.webp, mascots/3-chancellor-idle.webp, mascots/3-chancellor-working.webp, mascots/4-quartermaster-idle.webp, mascots/4-quartermaster-working.webp, mascots/5-auditor-idle.webp, mascots/5-auditor-working.webp"
+    "detail": "Unexpected: mascots/1-watchman-idle.webp, mascots/1-watchman-working.webp, mascots/2-instructor-idle.webp, mascots/2-instructor-working.webp, mascots/3-chancellor-idle.webp, mascots/3-chancellor-working.webp, mascots/4-quartermaster-idle.webp, mascots/4-quartermaster-working.webp, mascots/5-auditor-idle.webp, mascots/5-auditor-working.webp, mascots/bg-1-watchman.webp, mascots/bg-2-instructor.webp, mascots/bg-3-chancellor.webp, mascots/bg-4-quartermaster.webp, mascots/bg-5-auditor.webp"
    },
    {
     "label": "HTTPS forced on the site",
