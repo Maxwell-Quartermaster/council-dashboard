@@ -1,10 +1,10 @@
 {
- "asof_iso": "2026-11-03T00:36:34-07:00",
- "asof": "Nov 3, 2026, 12:36 AM MST",
+ "asof_iso": "2026-11-03T01:30:10-07:00",
+ "asof": "Nov 3, 2026, 1:30 AM MST",
  "window_hours": 3,
  "bots": {
   "Quartermaster": {
-   "state": "working",
+   "state": "idle",
    "updated_iso": "2026-11-02T21:42:00-07:00",
    "updated": "Nov 2, 9:42 PM MT",
    "doing": "Building the dashboard Projects tracker, the council bots and the black-and-gold look. Still holding the hotel story build for the Nov 5 freeze."
@@ -35,7 +35,7 @@
   }
  },
  "headline": {
-  "working": 1,
+  "working": 0,
   "bots": 5,
   "projects_pct": 41,
   "waiting_on_maxwell": 6,
