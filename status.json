@@ -1,6 +1,6 @@
 {
- "asof_iso": "2026-11-03T02:16:13-07:00",
- "asof": "Nov 3, 2026, 2:16 AM MST",
+ "asof_iso": "2026-11-03T02:22:26-07:00",
+ "asof": "Nov 3, 2026, 2:22 AM MST",
  "window_hours": 3,
  "bots": {
   "Quartermaster": {
@@ -60,8 +60,8 @@
    },
    {
     "label": "Only public files in the repo",
-    "state": "ok",
-    "detail": "7 files tracked"
+    "state": "bad",
+    "detail": "Unexpected: mascots/1-watchman-idle.webp, mascots/1-watchman-working.webp, mascots/2-instructor-idle.webp, mascots/2-instructor-working.webp, mascots/3-chancellor-idle.webp, mascots/3-chancellor-working.webp, mascots/4-quartermaster-idle.webp, mascots/4-quartermaster-working.webp, mascots/5-auditor-idle.webp, mascots/5-auditor-working.webp"
    },
    {
     "label": "HTTPS forced on the site",
