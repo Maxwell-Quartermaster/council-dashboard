@@ -1,0 +1,73 @@
+{
+ "asof_iso": "2026-11-03T00:13:52-07:00",
+ "asof": "Nov 3, 2026, 12:13 AM MST",
+ "window_hours": 3,
+ "bots": {
+  "Quartermaster": {
+   "state": "working",
+   "updated_iso": "2026-11-02T21:42:00-07:00",
+   "updated": "Nov 2, 9:42 PM MT",
+   "doing": "Building the dashboard Projects tracker, the council bots and the black-and-gold look. Still holding the hotel story build for the Nov 5 freeze."
+  },
+  "Watchman": {
+   "state": "idle",
+   "updated_iso": "2026-11-01T20:30:00-07:00",
+   "updated": "Nov 1, 8:30 PM MT",
+   "doing": "Placeholder pictures for 14 game cards; version 2 not yet verified."
+  },
+  "Chancellor": {
+   "state": "idle",
+   "updated_iso": "2026-11-01T20:30:00-07:00",
+   "updated": "Nov 1, 8:30 PM MT",
+   "doing": "Paused for game work; bosses item closed; check tool waits for its test run."
+  },
+  "Instructor": {
+   "state": "idle",
+   "updated_iso": "2026-11-01T20:31:00-07:00",
+   "updated": "Nov 1, 8:31 PM MT",
+   "doing": "Repo prep; Nancy's Thai sign-off sheet and four empty-card drafts."
+  },
+  "Auditor": {
+   "state": "idle",
+   "updated_iso": "2026-11-01T20:31:00-07:00",
+   "updated": "Nov 1, 8:31 PM MT",
+   "doing": "Repo prep only. Holding Maxwell's question sheet v5; gate window Nov 7-9 on the final build."
+  }
+ },
+ "headline": {
+  "working": 1,
+  "bots": 5,
+  "projects_pct": 41,
+  "waiting_on_maxwell": 6,
+  "files": 29
+ },
+ "security": {
+  "items": [
+   {
+    "label": "Privacy scan",
+    "state": "ok",
+    "detail": "26 patterns, 0 hits on the public files"
+   },
+   {
+    "label": "No secrets in the page",
+    "state": "ok",
+    "detail": "Checked for access codes and sign-in headers"
+   },
+   {
+    "label": "Talks only to known sites",
+    "state": "ok",
+    "detail": "Open-Meteo, GitHub status and our own pages"
+   },
+   {
+    "label": "Only public files in the repo",
+    "state": "ok",
+    "detail": "7 files tracked"
+   },
+   {
+    "label": "HTTPS forced on the site",
+    "state": "ok",
+    "detail": "From the site setup record"
+   }
+  ]
+ }
+}
