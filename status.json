@@ -1,12 +1,12 @@
 {
- "asof_iso": "2026-11-04T02:00:08-07:00",
- "asof": "Nov 4, 2026, 2:00 AM MST",
+ "asof_iso": "2026-11-04T15:38:05-07:00",
+ "asof": "Nov 4, 2026, 3:38 PM MST",
  "window_hours": 3,
  "bots": {
   "Quartermaster": {
    "state": "idle",
-   "updated_iso": "2026-11-02T21:42:00-07:00",
-   "updated": "Nov 2, 9:42 PM MT",
+   "updated_iso": "2026-11-04T02:20:00-07:00",
+   "updated": "Nov 4, 2:20 AM MT",
    "doing": "Building the dashboard Projects tracker, the council bots and the black-and-gold look. Still holding the hotel story build for the Nov 5 freeze."
   },
   "Watchman": {
@@ -37,7 +37,7 @@
  "headline": {
   "working": 0,
   "bots": 5,
-  "projects_pct": 41,
+  "projects_pct": 45,
   "waiting_on_maxwell": 6,
   "files": 29
  },
@@ -55,8 +55,8 @@
    },
    {
     "label": "Talks only to known sites",
-    "state": "ok",
-    "detail": "Open-Meteo, GitHub status and our own pages"
+    "state": "warn",
+    "detail": "New: www.etsy.com"
    },
    {
     "label": "Only public files in the repo",
